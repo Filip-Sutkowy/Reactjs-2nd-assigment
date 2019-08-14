@@ -1,0 +1,4 @@
+.CharComponent:hover {
+  background-color: #f00;
+  cursor: pointer;
+}
